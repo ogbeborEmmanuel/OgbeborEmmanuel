@@ -2,11 +2,11 @@
 
 Frontend developer with experience and a passion for creating modern and responsive websites and applications. Proficient in HTML, CSS, JavaScript, React and more, with experience in responsive design and web application development.
 
-🌍  I'm based in Nigeria
-🖥️  See my portfolio at [osec0des.netlify.app](https://osec0des.netlify.app/)
-✉️  You can contact me at [ose.codes@gmail.com](mailto:ose.codes@gmail.com)
-🧠  I'm learning Next.js and TypeScript
-⚡  I train and compete in street workout
+🌍  I'm based in Nigeria <br />
+🖥️  See my portfolio at [osec0des.netlify.app](https://osec0des.netlify.app/)  <br />
+✉️  You can contact me at [ose.codes@gmail.com](mailto:ose.codes@gmail.com)  <br />
+🧠  I'm learning Next.js and TypeScript <br />
+⚡  I train and compete in street workout  <br />
 
 <p align="left">
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
