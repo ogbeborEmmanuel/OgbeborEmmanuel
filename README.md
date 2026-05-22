@@ -1,6 +1,8 @@
 # Hi ✌ i am Emmanuel Ogbebor
 <br />
-### Frontend Developer <br />
+
+##    Frontend Developer <br />
+
 Frontend developer with experience and a passion for creating modern and responsive websites and applications. Proficient in HTML, CSS, JavaScript, React and more, with experience in responsive design and web application development.
 
 🌍  I'm based in Nigeria <br />
