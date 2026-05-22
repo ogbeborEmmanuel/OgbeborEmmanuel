@@ -1,23 +1,10 @@
-# Emmanuel Ogbebor
+## Hi ✌ i am Emmanuel Ogbebor
 
-<p align="center">
-  <a href="https://osec0des.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Site-0A66C2?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="mailto:ose.codes@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
+# About Me
 
-<p align="center">
-  Front-end developer based in Nigeria, building modern web experiences with React and Vite while learning Next.js and TypeScript.
-</p>
+I’m Emmanuel Ogbebor, a front-end developer. I focus on building clean, responsive, and user-friendly interfaces with modern JavaScript tools.
 
-## About Me
-
-I’m Emmanuel Ogbebor, a front-end developer based in Port Harcourt, Rivers State, Nigeria. I focus on building clean, responsive, and user-friendly interfaces with modern JavaScript tools.
-
-## Tech Stack
+# Tech Stack
 
 <p align="left">
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -41,11 +28,11 @@ I’m Emmanuel Ogbebor, a front-end developer based in Port Harcourt, Rivers Sta
   <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
 </p>
 
-## Portfolio
+# Portfolio
 
 Visit: [osec0des.netlify.app](https://osec0des.netlify.app/)
 
-## Contact
+# Contact
 
 - Email: [ose.codes@gmail.com](mailto:ose.codes@gmail.com)
-- Location: Port Harcourt, Rivers State, Nigeria
+
