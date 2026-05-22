@@ -1,6 +1,6 @@
 # Hi ✌ i am Emmanuel Ogbebor
 <br />
-## Frontend Developer
+## Frontend Developer <br />
 Frontend developer with experience and a passion for creating modern and responsive websites and applications. Proficient in HTML, CSS, JavaScript, React and more, with experience in responsive design and web application development.
 
 🌍  I'm based in Nigeria <br />
@@ -9,7 +9,7 @@ Frontend developer with experience and a passion for creating modern and respons
 🧠  I'm learning Next.js and TypeScript <br />
 ⚡  I train and compete in street workout  <br />
 
-<p align="left">
+## Tech Stack
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="28" height="28" alt="React" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="28" height="28" alt="JavaScript" />
@@ -23,7 +23,6 @@ Frontend developer with experience and a passion for creating modern and respons
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="28" height="28" alt="Tailwind CSS" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/supabase/supabase-original.svg" width="28" height="28" alt="Supabase" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="28" height="28" alt="Next.js" />
-</p>
 </p>
 
 ### Currently Learning
