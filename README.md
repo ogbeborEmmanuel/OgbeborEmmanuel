@@ -1,10 +1,12 @@
-## Hi ✌ i am Emmanuel Ogbebor
+# Hi ✌ i am Emmanuel Ogbebor
 
-# About Me
+Frontend developer with experience and a passion for creating modern and responsive websites and applications. Proficient in HTML, CSS, JavaScript, React and more, with experience in responsive design and web application development.
 
-I’m Emmanuel Ogbebor, a front-end developer. I focus on building clean, responsive, and user-friendly interfaces with modern JavaScript tools.
-
-# Tech Stack
+🌍  I'm based in Nigeria
+🖥️  See my portfolio at [osec0des.netlify.app](https://osec0des.netlify.app/)
+✉️  You can contact me at [ose.codes@gmail.com](mailto:ose.codes@gmail.com)
+🧠  I'm learning Next.js and TypeScript
+⚡  I train and compete in street workout
 
 <p align="left">
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -21,18 +23,10 @@ I’m Emmanuel Ogbebor, a front-end developer. I focus on building clean, respon
   <img src="https://img.shields.io/badge/-Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
 </p>
 
-## Currently Learning
+### Currently Learning
 
 <p align="left">
   <img src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
 </p>
-
-# Portfolio
-
-Visit: [osec0des.netlify.app](https://osec0des.netlify.app/)
-
-# Contact
-
-- Email: [ose.codes@gmail.com](mailto:ose.codes@gmail.com)
 
