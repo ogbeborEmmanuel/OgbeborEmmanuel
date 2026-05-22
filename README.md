@@ -1,6 +1,6 @@
 # Hi ✌ i am Emmanuel Ogbebor
 <br />
-## Frontend Developer <br />
+### Frontend Developer <br />
 Frontend developer with experience and a passion for creating modern and responsive websites and applications. Proficient in HTML, CSS, JavaScript, React and more, with experience in responsive design and web application development.
 
 🌍  I'm based in Nigeria <br />
@@ -9,7 +9,7 @@ Frontend developer with experience and a passion for creating modern and respons
 🧠  I'm learning Next.js and TypeScript <br />
 ⚡  I train and compete in street workout  <br />
 
-## Tech Stack
+### Tech Stack
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="28" height="28" alt="React" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="28" height="28" alt="JavaScript" />
@@ -28,7 +28,7 @@ Frontend developer with experience and a passion for creating modern and respons
 ### Currently Learning
 
 <p align="left">
-  <img src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="28" height="28" alt="TypeScript" />
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="28" height="28" alt="Next.js" />
 </p>
 
