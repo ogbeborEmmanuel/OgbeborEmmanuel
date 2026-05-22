@@ -8,4 +8,4 @@
 🧠  I'm learning Next.js and TypeScript
 ⚡  React, vite 🚀⭐
 
-https://supabase.com/
+JavaScriptGitHTML5CSS3ReactSassReduxTailwindCSSViteSupabase
